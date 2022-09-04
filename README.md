@@ -4,9 +4,8 @@ MODELLING THE IMPACT OF THE OMICRON BA.5 SUBVARIANT IN NEW ZEALAND
 
 
 
-==================================================================
 Matlab code
-==================================================================
+===========
 
 The top-level folder contains the Matlab .m files to run the model and reproduce the results in the paper
 
@@ -16,9 +15,9 @@ The key files are:
 
 
 
-==================================================================
+
 Data
-==================================================================
+====
 
 Data files read in by the model are stored in /data/
 
