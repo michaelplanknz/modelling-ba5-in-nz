@@ -1,6 +1,6 @@
 # modelling-ba5-in-nz
 
-MODELLING THE IMPACT OF THE OMICRON BA.5 SUBVARIANT IN NEW ZEALAND
+This repo contains the data and code to reproduce the results in the article: "Modelling the impact of the Omicron BA.5 subvariant in New Zealand"
 
 
 
@@ -15,7 +15,6 @@ The key files are:
 
 
 
-
 Data
 ====
 
@@ -27,7 +26,6 @@ These are:
 - popsize_national.xlsx - New Zealand population size in five-year age bands
 - reshaped_b2_projecitons_final_2022-07-13.csv - projections of the future uptake of fourth vaccine doses in age bands over 50 years old supplied by the Ministry of Health
 - vaccine_data_national.csv - cumulative number of nth doses given to people in 16 five-year age bands by date
-
 
 
 
